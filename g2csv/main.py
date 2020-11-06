@@ -16,4 +16,4 @@ def main(event,context):
 
 
 event = json.loads('{"Keyword"}:{"docker"}')
-print main(event,"")
+print(main(event,""))
