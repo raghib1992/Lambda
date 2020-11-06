@@ -1,6 +1,6 @@
 import json
 import requests
-from bs4 import BeautifulSoup
+import BeautifulSoup
 
 
 def main(event,context):
